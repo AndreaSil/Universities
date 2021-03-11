@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversitiesExam", "UniversitiesExam\UniversitiesExam.csproj", "{60F0556E-66E5-4E01-AE65-AEFAC5CBF1DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject1", "NUnitTestProject1\NUnitTestProject1.csproj", "{7BED3D01-D56E-4069-A917-E7BDAD2B7A9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{60F0556E-66E5-4E01-AE65-AEFAC5CBF1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60F0556E-66E5-4E01-AE65-AEFAC5CBF1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60F0556E-66E5-4E01-AE65-AEFAC5CBF1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BED3D01-D56E-4069-A917-E7BDAD2B7A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BED3D01-D56E-4069-A917-E7BDAD2B7A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BED3D01-D56E-4069-A917-E7BDAD2B7A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BED3D01-D56E-4069-A917-E7BDAD2B7A9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
